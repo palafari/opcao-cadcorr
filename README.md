@@ -1,2 +1,2 @@
-# opcao-cadcorr
+# opcao-imagens
 Imagens para PowerBI
